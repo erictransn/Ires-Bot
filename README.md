@@ -22,3 +22,6 @@ Events:
   - when a user uses a reaction, the bot checks if the reaction is an upvote or downvote to increment or decrement the author of the
     message score
   - Also remove a role to the reactor when used on a message in the assign-role channel in the discord
+
+
+This bot is created python and uses mongoDB as a database to save user ID and their score
